@@ -7,6 +7,6 @@ int main ()
   cout<<"Sveikas pasauly!!!"<<endl;
   cout<<"Sveikas gyvas!!!"<<endl;
   cout<<"Sveikas da karta..."<<endl;
-  cout<<"Gutte abben!!!!"<<endl;
+  cout<<"Po polski!!!!"<<endl;
   return 0;
 }
