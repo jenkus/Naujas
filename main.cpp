@@ -10,4 +10,5 @@ int main ()
   cout<<"Po polski!!!!"<<endl;
   cout<<"Gutte abben!!!!"<<endl;
   cout<<"Gutte viso gero!!!!"<<endl;
+  return(0);
 }
